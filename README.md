@@ -5,10 +5,10 @@ The circuit is of Insidegadgets design, I have just made a nice compact PCB to e
 
 My schematic is attached as PDF.
 
-2x 74LS595
-2x 16 Pin Chip Sockets (optional)
-1x 1K Resistor (optional, can just link across)
-1x Arduino Nano
+2x 74LS595 -
+2x 16 Pin Chip Sockets (optional) -
+1x 1K Resistor (optional, can just link across) -
+1x Arduino Nano -
 1x Gameboy Cartridge Connector (eBay, Aliexpress)
 
 ![Layout](https://github.com/sillyhatday/Gameboy_Cart_Dumper/blob/main/GB_DUMP_LAYOUT.png)
